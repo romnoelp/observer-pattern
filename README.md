@@ -6,7 +6,7 @@
 
 **NewsAgency:** Represents the central hub for publishing news. It maintains a list of subscribers and notifies them whenever new news is available.
 
-**Subscriber: **Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.
+**Subscriber: ** Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.
 
 **Requirements:**
 
@@ -29,4 +29,4 @@ The system should provide flexibility for future enhancements, such as personali
 The system should be scalable to handle a growing number of subscribers without compromising performance.
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
-![{5B84885E-9E5A-4143-81FA-B3019A545FAF}](https://github.com/user-attachments/assets/ce65150c-7594-4413-8875-e4386eabf2d3)
+![{E755020E-9B79-4A2B-A41B-B1E2385E265D}](https://github.com/user-attachments/assets/d0ba8963-e4a0-4a49-9333-65f2f86d69e5)
